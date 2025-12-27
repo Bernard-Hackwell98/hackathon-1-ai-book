@@ -1,0 +1,107 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/hackathon-1-ai-book/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/hackathon-1-ai-book/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "index",
+              "path": "/hackathon-1-ai-book/",
+              "sidebar": "physicalAISidebar"
+            },
+            {
+              "id": "modules/physical-ai/assessments",
+              "path": "/hackathon-1-ai-book/modules/physical-ai/assessments"
+            },
+            {
+              "id": "modules/physical-ai/chapter-1-intro/index",
+              "path": "/hackathon-1-ai-book/modules/physical-ai/chapter-1-intro/",
+              "sidebar": "physicalAISidebar"
+            },
+            {
+              "id": "modules/physical-ai/chapter-2-vision/index",
+              "path": "/hackathon-1-ai-book/modules/physical-ai/chapter-2-vision/",
+              "sidebar": "physicalAISidebar"
+            },
+            {
+              "id": "modules/physical-ai/chapter-3-perception-action/index",
+              "path": "/hackathon-1-ai-book/modules/physical-ai/chapter-3-perception-action/",
+              "sidebar": "physicalAISidebar"
+            },
+            {
+              "id": "modules/physical-ai/entities",
+              "path": "/hackathon-1-ai-book/modules/physical-ai/entities"
+            },
+            {
+              "id": "modules/physical-ai/glossary",
+              "path": "/hackathon-1-ai-book/modules/physical-ai/glossary"
+            },
+            {
+              "id": "modules/physical-ai/intro",
+              "path": "/hackathon-1-ai-book/modules/physical-ai/intro",
+              "sidebar": "physicalAISidebar"
+            },
+            {
+              "id": "modules/physical-ai/validation-report",
+              "path": "/hackathon-1-ai-book/modules/physical-ai/validation-report"
+            },
+            {
+              "id": "modules/ros2-humanoid/assessments",
+              "path": "/hackathon-1-ai-book/modules/ros2-humanoid/assessments"
+            },
+            {
+              "id": "modules/ros2-humanoid/chapter-1-intro/index",
+              "path": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-1-intro/",
+              "sidebar": "ros2HumanoidSidebar"
+            },
+            {
+              "id": "modules/ros2-humanoid/chapter-2-communication/index",
+              "path": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-2-communication/",
+              "sidebar": "ros2HumanoidSidebar"
+            },
+            {
+              "id": "modules/ros2-humanoid/chapter-3-urdf/index",
+              "path": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-3-urdf/",
+              "sidebar": "ros2HumanoidSidebar"
+            },
+            {
+              "id": "modules/ros2-humanoid/glossary",
+              "path": "/hackathon-1-ai-book/modules/ros2-humanoid/glossary"
+            },
+            {
+              "id": "modules/ros2-humanoid/intro",
+              "path": "/hackathon-1-ai-book/modules/ros2-humanoid/intro",
+              "sidebar": "ros2HumanoidSidebar"
+            },
+            {
+              "id": "modules/ros2-humanoid/validation-report",
+              "path": "/hackathon-1-ai-book/modules/ros2-humanoid/validation-report"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "ros2HumanoidSidebar": {
+              "link": {
+                "path": "/hackathon-1-ai-book/",
+                "label": "index"
+              }
+            },
+            "physicalAISidebar": {
+              "link": {
+                "path": "/hackathon-1-ai-book/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

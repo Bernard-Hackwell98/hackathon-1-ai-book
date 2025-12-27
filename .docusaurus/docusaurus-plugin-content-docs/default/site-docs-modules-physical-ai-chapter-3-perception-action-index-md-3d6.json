@@ -1,0 +1,24 @@
+{
+  "unversionedId": "modules/physical-ai/chapter-3-perception-action/index",
+  "id": "modules/physical-ai/chapter-3-perception-action/index",
+  "title": "Chapter 3 - Perception-Action Systems",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules/physical-ai/chapter-3-perception-action/index.md",
+  "sourceDirName": "modules/physical-ai/chapter-3-perception-action",
+  "slug": "/modules/physical-ai/chapter-3-perception-action/",
+  "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-3-perception-action/",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/chapter-3-perception-action/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 3 - Perception-Action Systems"
+  },
+  "sidebar": "physicalAISidebar",
+  "previous": {
+    "title": "Chapter 2 - ROS 2 Vision Primitives",
+    "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-2-vision/"
+  }
+}

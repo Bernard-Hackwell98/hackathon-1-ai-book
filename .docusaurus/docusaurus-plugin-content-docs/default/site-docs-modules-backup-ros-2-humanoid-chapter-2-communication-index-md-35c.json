@@ -1,0 +1,19 @@
+{
+  "unversionedId": "modules_backup/ros2-humanoid/chapter-2-communication/index",
+  "id": "modules_backup/ros2-humanoid/chapter-2-communication/index",
+  "title": "Chapter 2 - ROS 2 Communication Primitives",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules_backup/ros2-humanoid/chapter-2-communication/index.md",
+  "sourceDirName": "modules_backup/ros2-humanoid/chapter-2-communication",
+  "slug": "/modules_backup/ros2-humanoid/chapter-2-communication/",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/ros2-humanoid/chapter-2-communication/",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/ros2-humanoid/chapter-2-communication/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 2 - ROS 2 Communication Primitives"
+  }
+}

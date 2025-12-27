@@ -1,0 +1,15 @@
+{
+  "unversionedId": "modules_backup/physical-ai/assessments",
+  "id": "modules_backup/physical-ai/assessments",
+  "title": "Assessment Methods for Physical AI Module",
+  "description": "Chapter 1: Introduction to Physical AI",
+  "source": "@site/docs/modules_backup/physical-ai/assessments.md",
+  "sourceDirName": "modules_backup/physical-ai",
+  "slug": "/modules_backup/physical-ai/assessments",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/physical-ai/assessments",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/physical-ai/assessments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

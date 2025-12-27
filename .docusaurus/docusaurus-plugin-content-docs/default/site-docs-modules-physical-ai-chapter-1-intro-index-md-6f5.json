@@ -1,0 +1,28 @@
+{
+  "unversionedId": "modules/physical-ai/chapter-1-intro/index",
+  "id": "modules/physical-ai/chapter-1-intro/index",
+  "title": "Chapter 1 - Introduction to Physical AI",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules/physical-ai/chapter-1-intro/index.md",
+  "sourceDirName": "modules/physical-ai/chapter-1-intro",
+  "slug": "/modules/physical-ai/chapter-1-intro/",
+  "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-1-intro/",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/chapter-1-intro/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 1 - Introduction to Physical AI"
+  },
+  "sidebar": "physicalAISidebar",
+  "previous": {
+    "title": "Introduction to Physical AI",
+    "permalink": "/hackathon-1-ai-book/modules/physical-ai/intro"
+  },
+  "next": {
+    "title": "Chapter 2 - ROS 2 Vision Primitives",
+    "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-2-vision/"
+  }
+}

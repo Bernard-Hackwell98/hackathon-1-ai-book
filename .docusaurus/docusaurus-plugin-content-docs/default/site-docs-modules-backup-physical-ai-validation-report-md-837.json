@@ -1,0 +1,15 @@
+{
+  "unversionedId": "modules_backup/physical-ai/validation-report",
+  "id": "modules_backup/physical-ai/validation-report",
+  "title": "Validation Report: Physical AI Module",
+  "description": "Accessibility Validation",
+  "source": "@site/docs/modules_backup/physical-ai/validation-report.md",
+  "sourceDirName": "modules_backup/physical-ai",
+  "slug": "/modules_backup/physical-ai/validation-report",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/physical-ai/validation-report",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/physical-ai/validation-report.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

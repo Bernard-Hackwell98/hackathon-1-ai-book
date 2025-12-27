@@ -1,0 +1,489 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/hackathon-1-ai-book/",
+          "tagsPath": "/hackathon-1-ai-book/tags",
+          "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs",
+          "editUrlLocalized": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "E:\\Hammad97 Docs\\Quater 4\\hackathon-1\\hackathon-1-ai-book\\sidebars.js",
+          "contentPath": "E:\\Hammad97 Docs\\Quater 4\\hackathon-1\\hackathon-1-ai-book\\docs",
+          "contentPathLocalized": "E:\\Hammad97 Docs\\Quater 4\\hackathon-1\\hackathon-1-ai-book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Physical AI & Humanoid Robotics Textbook",
+              "description": "Welcome to the comprehensive textbook on Physical AI and Humanoid Robotics. This resource covers the fundamental concepts, advanced techniques, and practical implementations in the field of embodied artificial intelligence and humanoid robotics.",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/hackathon-1-ai-book/",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/index.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "id": "index",
+                "title": "Physical AI & Humanoid Robotics Textbook"
+              },
+              "sidebar": "physicalAISidebar",
+              "next": {
+                "title": "Introduction to Physical AI",
+                "permalink": "/hackathon-1-ai-book/modules/physical-ai/intro"
+              }
+            },
+            {
+              "unversionedId": "modules/physical-ai/assessments",
+              "id": "modules/physical-ai/assessments",
+              "title": "Assessment Methods for Physical AI Module",
+              "description": "Chapter 1: Introduction to Physical AI",
+              "source": "@site/docs/modules/physical-ai/assessments.md",
+              "sourceDirName": "modules/physical-ai",
+              "slug": "/modules/physical-ai/assessments",
+              "permalink": "/hackathon-1-ai-book/modules/physical-ai/assessments",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/assessments.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "modules/physical-ai/chapter-1-intro/index",
+              "id": "modules/physical-ai/chapter-1-intro/index",
+              "title": "Chapter 1 - Introduction to Physical AI",
+              "description": "Learning Objectives",
+              "source": "@site/docs/modules/physical-ai/chapter-1-intro/index.md",
+              "sourceDirName": "modules/physical-ai/chapter-1-intro",
+              "slug": "/modules/physical-ai/chapter-1-intro/",
+              "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-1-intro/",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/chapter-1-intro/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Chapter 1 - Introduction to Physical AI"
+              },
+              "sidebar": "physicalAISidebar",
+              "previous": {
+                "title": "Introduction to Physical AI",
+                "permalink": "/hackathon-1-ai-book/modules/physical-ai/intro"
+              },
+              "next": {
+                "title": "Chapter 2 - ROS 2 Vision Primitives",
+                "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-2-vision/"
+              }
+            },
+            {
+              "unversionedId": "modules/physical-ai/chapter-2-vision/index",
+              "id": "modules/physical-ai/chapter-2-vision/index",
+              "title": "Chapter 2 - ROS 2 Vision Primitives",
+              "description": "Learning Objectives",
+              "source": "@site/docs/modules/physical-ai/chapter-2-vision/index.md",
+              "sourceDirName": "modules/physical-ai/chapter-2-vision",
+              "slug": "/modules/physical-ai/chapter-2-vision/",
+              "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-2-vision/",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/chapter-2-vision/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Chapter 2 - ROS 2 Vision Primitives"
+              },
+              "sidebar": "physicalAISidebar",
+              "previous": {
+                "title": "Chapter 1 - Introduction to Physical AI",
+                "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-1-intro/"
+              },
+              "next": {
+                "title": "Chapter 3 - Perception-Action Systems",
+                "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-3-perception-action/"
+              }
+            },
+            {
+              "unversionedId": "modules/physical-ai/chapter-3-perception-action/index",
+              "id": "modules/physical-ai/chapter-3-perception-action/index",
+              "title": "Chapter 3 - Perception-Action Systems",
+              "description": "Learning Objectives",
+              "source": "@site/docs/modules/physical-ai/chapter-3-perception-action/index.md",
+              "sourceDirName": "modules/physical-ai/chapter-3-perception-action",
+              "slug": "/modules/physical-ai/chapter-3-perception-action/",
+              "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-3-perception-action/",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/chapter-3-perception-action/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Chapter 3 - Perception-Action Systems"
+              },
+              "sidebar": "physicalAISidebar",
+              "previous": {
+                "title": "Chapter 2 - ROS 2 Vision Primitives",
+                "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-2-vision/"
+              }
+            },
+            {
+              "unversionedId": "modules/physical-ai/entities",
+              "id": "modules/physical-ai/entities",
+              "title": "Base Models/Entities for Physical AI Module",
+              "description": "Physical AI",
+              "source": "@site/docs/modules/physical-ai/entities.md",
+              "sourceDirName": "modules/physical-ai",
+              "slug": "/modules/physical-ai/entities",
+              "permalink": "/hackathon-1-ai-book/modules/physical-ai/entities",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/entities.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "modules/physical-ai/glossary",
+              "id": "modules/physical-ai/glossary",
+              "title": "Glossary of Physical AI Terms",
+              "description": "A",
+              "source": "@site/docs/modules/physical-ai/glossary.md",
+              "sourceDirName": "modules/physical-ai",
+              "slug": "/modules/physical-ai/glossary",
+              "permalink": "/hackathon-1-ai-book/modules/physical-ai/glossary",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/glossary.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "modules/physical-ai/intro",
+              "id": "modules/physical-ai/intro",
+              "title": "Introduction to Physical AI",
+              "description": "Overview",
+              "source": "@site/docs/modules/physical-ai/intro.md",
+              "sourceDirName": "modules/physical-ai",
+              "slug": "/modules/physical-ai/intro",
+              "permalink": "/hackathon-1-ai-book/modules/physical-ai/intro",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Introduction to Physical AI"
+              },
+              "sidebar": "physicalAISidebar",
+              "previous": {
+                "title": "Physical AI & Humanoid Robotics Textbook",
+                "permalink": "/hackathon-1-ai-book/"
+              },
+              "next": {
+                "title": "Chapter 1 - Introduction to Physical AI",
+                "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-1-intro/"
+              }
+            },
+            {
+              "unversionedId": "modules/physical-ai/validation-report",
+              "id": "modules/physical-ai/validation-report",
+              "title": "Validation Report: Physical AI Module",
+              "description": "Accessibility Validation",
+              "source": "@site/docs/modules/physical-ai/validation-report.md",
+              "sourceDirName": "modules/physical-ai",
+              "slug": "/modules/physical-ai/validation-report",
+              "permalink": "/hackathon-1-ai-book/modules/physical-ai/validation-report",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/validation-report.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "modules/ros2-humanoid/assessments",
+              "id": "modules/ros2-humanoid/assessments",
+              "title": "Assessment Methods for ROS 2 for Humanoid Robotics Module",
+              "description": "Chapter 1: Introduction to ROS 2 for Humanoid Robotics",
+              "source": "@site/docs/modules/ros2-humanoid/assessments.md",
+              "sourceDirName": "modules/ros2-humanoid",
+              "slug": "/modules/ros2-humanoid/assessments",
+              "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/assessments",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/assessments.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "modules/ros2-humanoid/chapter-1-intro/index",
+              "id": "modules/ros2-humanoid/chapter-1-intro/index",
+              "title": "Chapter 1 - Introduction to ROS 2 for Humanoid Robotics",
+              "description": "Learning Objectives",
+              "source": "@site/docs/modules/ros2-humanoid/chapter-1-intro/index.md",
+              "sourceDirName": "modules/ros2-humanoid/chapter-1-intro",
+              "slug": "/modules/ros2-humanoid/chapter-1-intro/",
+              "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-1-intro/",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/chapter-1-intro/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Chapter 1 - Introduction to ROS 2 for Humanoid Robotics"
+              },
+              "sidebar": "ros2HumanoidSidebar",
+              "previous": {
+                "title": "Introduction to ROS 2 for Humanoid Robotics",
+                "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/intro"
+              },
+              "next": {
+                "title": "Chapter 2 - ROS 2 Communication Primitives",
+                "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-2-communication/"
+              }
+            },
+            {
+              "unversionedId": "modules/ros2-humanoid/chapter-2-communication/index",
+              "id": "modules/ros2-humanoid/chapter-2-communication/index",
+              "title": "Chapter 2 - ROS 2 Communication Primitives",
+              "description": "Learning Objectives",
+              "source": "@site/docs/modules/ros2-humanoid/chapter-2-communication/index.md",
+              "sourceDirName": "modules/ros2-humanoid/chapter-2-communication",
+              "slug": "/modules/ros2-humanoid/chapter-2-communication/",
+              "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-2-communication/",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/chapter-2-communication/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Chapter 2 - ROS 2 Communication Primitives"
+              },
+              "sidebar": "ros2HumanoidSidebar",
+              "previous": {
+                "title": "Chapter 1 - Introduction to ROS 2 for Humanoid Robotics",
+                "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-1-intro/"
+              },
+              "next": {
+                "title": "Chapter 3 - Robot Modeling with URDF",
+                "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-3-urdf/"
+              }
+            },
+            {
+              "unversionedId": "modules/ros2-humanoid/chapter-3-urdf/index",
+              "id": "modules/ros2-humanoid/chapter-3-urdf/index",
+              "title": "Chapter 3 - Robot Modeling with URDF",
+              "description": "Learning Objectives",
+              "source": "@site/docs/modules/ros2-humanoid/chapter-3-urdf/index.md",
+              "sourceDirName": "modules/ros2-humanoid/chapter-3-urdf",
+              "slug": "/modules/ros2-humanoid/chapter-3-urdf/",
+              "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-3-urdf/",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/chapter-3-urdf/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Chapter 3 - Robot Modeling with URDF"
+              },
+              "sidebar": "ros2HumanoidSidebar",
+              "previous": {
+                "title": "Chapter 2 - ROS 2 Communication Primitives",
+                "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-2-communication/"
+              }
+            },
+            {
+              "unversionedId": "modules/ros2-humanoid/glossary",
+              "id": "modules/ros2-humanoid/glossary",
+              "title": "Glossary of ROS 2 Terms",
+              "description": "A",
+              "source": "@site/docs/modules/ros2-humanoid/glossary.md",
+              "sourceDirName": "modules/ros2-humanoid",
+              "slug": "/modules/ros2-humanoid/glossary",
+              "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/glossary",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/glossary.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
+              "unversionedId": "modules/ros2-humanoid/intro",
+              "id": "modules/ros2-humanoid/intro",
+              "title": "Introduction to ROS 2 for Humanoid Robotics",
+              "description": "Overview",
+              "source": "@site/docs/modules/ros2-humanoid/intro.md",
+              "sourceDirName": "modules/ros2-humanoid",
+              "slug": "/modules/ros2-humanoid/intro",
+              "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/intro",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Introduction to ROS 2 for Humanoid Robotics"
+              },
+              "sidebar": "ros2HumanoidSidebar",
+              "previous": {
+                "title": "Physical AI & Humanoid Robotics Textbook",
+                "permalink": "/hackathon-1-ai-book/"
+              },
+              "next": {
+                "title": "Chapter 1 - Introduction to ROS 2 for Humanoid Robotics",
+                "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-1-intro/"
+              }
+            },
+            {
+              "unversionedId": "modules/ros2-humanoid/validation-report",
+              "id": "modules/ros2-humanoid/validation-report",
+              "title": "Validation Report: ROS 2 for Humanoid Robotics Module",
+              "description": "Accessibility Validation",
+              "source": "@site/docs/modules/ros2-humanoid/validation-report.md",
+              "sourceDirName": "modules/ros2-humanoid",
+              "slug": "/modules/ros2-humanoid/validation-report",
+              "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/validation-report",
+              "draft": false,
+              "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/validation-report.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "ros2HumanoidSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "ROS 2 for Humanoid Robotics",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/ros2-humanoid/intro"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Chapter 1: Introduction to ROS 2 for Humanoid Robotics",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "modules/ros2-humanoid/chapter-1-intro/index"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Chapter 2: ROS 2 Communication Primitives",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "modules/ros2-humanoid/chapter-2-communication/index"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Chapter 3: Robot Modeling with URDF",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "modules/ros2-humanoid/chapter-3-urdf/index"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ],
+            "physicalAISidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Physical AI and Computer Vision",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "modules/physical-ai/intro"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Chapter 1: Introduction to Physical AI",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "modules/physical-ai/chapter-1-intro/index"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Chapter 2: ROS 2 Vision Primitives",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "modules/physical-ai/chapter-2-vision/index"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Chapter 3: Perception-Action Systems",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "modules/physical-ai/chapter-3-perception-action/index"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "modules_backup/physical-ai/chapter-3-perception-action/index",
+  "id": "modules_backup/physical-ai/chapter-3-perception-action/index",
+  "title": "Chapter 3 - Perception-Action Systems",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules_backup/physical-ai/chapter-3-perception-action/index.md",
+  "sourceDirName": "modules_backup/physical-ai/chapter-3-perception-action",
+  "slug": "/modules_backup/physical-ai/chapter-3-perception-action/",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/physical-ai/chapter-3-perception-action/",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/physical-ai/chapter-3-perception-action/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 3 - Perception-Action Systems"
+  }
+}

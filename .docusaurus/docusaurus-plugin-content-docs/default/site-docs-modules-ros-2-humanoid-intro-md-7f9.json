@@ -1,0 +1,28 @@
+{
+  "unversionedId": "modules/ros2-humanoid/intro",
+  "id": "modules/ros2-humanoid/intro",
+  "title": "Introduction to ROS 2 for Humanoid Robotics",
+  "description": "Overview",
+  "source": "@site/docs/modules/ros2-humanoid/intro.md",
+  "sourceDirName": "modules/ros2-humanoid",
+  "slug": "/modules/ros2-humanoid/intro",
+  "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/intro",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction to ROS 2 for Humanoid Robotics"
+  },
+  "sidebar": "ros2HumanoidSidebar",
+  "previous": {
+    "title": "Physical AI & Humanoid Robotics Textbook",
+    "permalink": "/hackathon-1-ai-book/"
+  },
+  "next": {
+    "title": "Chapter 1 - Introduction to ROS 2 for Humanoid Robotics",
+    "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-1-intro/"
+  }
+}

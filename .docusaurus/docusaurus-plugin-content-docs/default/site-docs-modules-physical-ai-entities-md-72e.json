@@ -1,0 +1,15 @@
+{
+  "unversionedId": "modules/physical-ai/entities",
+  "id": "modules/physical-ai/entities",
+  "title": "Base Models/Entities for Physical AI Module",
+  "description": "Physical AI",
+  "source": "@site/docs/modules/physical-ai/entities.md",
+  "sourceDirName": "modules/physical-ai",
+  "slug": "/modules/physical-ai/entities",
+  "permalink": "/hackathon-1-ai-book/modules/physical-ai/entities",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/entities.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

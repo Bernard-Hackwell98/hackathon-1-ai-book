@@ -1,0 +1,15 @@
+{
+  "unversionedId": "modules_backup/physical-ai/glossary",
+  "id": "modules_backup/physical-ai/glossary",
+  "title": "Glossary of Physical AI Terms",
+  "description": "A",
+  "source": "@site/docs/modules_backup/physical-ai/glossary.md",
+  "sourceDirName": "modules_backup/physical-ai",
+  "slug": "/modules_backup/physical-ai/glossary",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/physical-ai/glossary",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/physical-ai/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

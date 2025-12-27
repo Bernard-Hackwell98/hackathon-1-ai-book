@@ -1,0 +1,19 @@
+{
+  "unversionedId": "modules_backup/ros2-humanoid/chapter-3-urdf/index",
+  "id": "modules_backup/ros2-humanoid/chapter-3-urdf/index",
+  "title": "Chapter 3 - Robot Modeling with URDF",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules_backup/ros2-humanoid/chapter-3-urdf/index.md",
+  "sourceDirName": "modules_backup/ros2-humanoid/chapter-3-urdf",
+  "slug": "/modules_backup/ros2-humanoid/chapter-3-urdf/",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/ros2-humanoid/chapter-3-urdf/",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/ros2-humanoid/chapter-3-urdf/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 3 - Robot Modeling with URDF"
+  }
+}

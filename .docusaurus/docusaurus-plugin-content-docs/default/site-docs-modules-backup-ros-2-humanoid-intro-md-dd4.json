@@ -1,0 +1,19 @@
+{
+  "unversionedId": "modules_backup/ros2-humanoid/intro",
+  "id": "modules_backup/ros2-humanoid/intro",
+  "title": "Introduction to ROS 2 for Humanoid Robotics",
+  "description": "Overview",
+  "source": "@site/docs/modules_backup/ros2-humanoid/intro.md",
+  "sourceDirName": "modules_backup/ros2-humanoid",
+  "slug": "/modules_backup/ros2-humanoid/intro",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/ros2-humanoid/intro",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/ros2-humanoid/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction to ROS 2 for Humanoid Robotics"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "modules/physical-ai/intro",
+  "id": "modules/physical-ai/intro",
+  "title": "Introduction to Physical AI",
+  "description": "Overview",
+  "source": "@site/docs/modules/physical-ai/intro.md",
+  "sourceDirName": "modules/physical-ai",
+  "slug": "/modules/physical-ai/intro",
+  "permalink": "/hackathon-1-ai-book/modules/physical-ai/intro",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/physical-ai/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction to Physical AI"
+  },
+  "sidebar": "physicalAISidebar",
+  "previous": {
+    "title": "Physical AI & Humanoid Robotics Textbook",
+    "permalink": "/hackathon-1-ai-book/"
+  },
+  "next": {
+    "title": "Chapter 1 - Introduction to Physical AI",
+    "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-1-intro/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "modules/ros2-humanoid/chapter-3-urdf/index",
+  "id": "modules/ros2-humanoid/chapter-3-urdf/index",
+  "title": "Chapter 3 - Robot Modeling with URDF",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules/ros2-humanoid/chapter-3-urdf/index.md",
+  "sourceDirName": "modules/ros2-humanoid/chapter-3-urdf",
+  "slug": "/modules/ros2-humanoid/chapter-3-urdf/",
+  "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-3-urdf/",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/chapter-3-urdf/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "Chapter 3 - Robot Modeling with URDF"
+  },
+  "sidebar": "ros2HumanoidSidebar",
+  "previous": {
+    "title": "Chapter 2 - ROS 2 Communication Primitives",
+    "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-2-communication/"
+  }
+}

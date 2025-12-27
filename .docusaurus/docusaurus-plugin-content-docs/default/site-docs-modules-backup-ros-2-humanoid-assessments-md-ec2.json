@@ -1,0 +1,15 @@
+{
+  "unversionedId": "modules_backup/ros2-humanoid/assessments",
+  "id": "modules_backup/ros2-humanoid/assessments",
+  "title": "Assessment Methods for ROS 2 for Humanoid Robotics Module",
+  "description": "Chapter 1: Introduction to ROS 2 for Humanoid Robotics",
+  "source": "@site/docs/modules_backup/ros2-humanoid/assessments.md",
+  "sourceDirName": "modules_backup/ros2-humanoid",
+  "slug": "/modules_backup/ros2-humanoid/assessments",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/ros2-humanoid/assessments",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/ros2-humanoid/assessments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

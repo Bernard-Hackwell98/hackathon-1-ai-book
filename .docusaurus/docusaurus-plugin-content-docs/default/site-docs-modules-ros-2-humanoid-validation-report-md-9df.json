@@ -1,0 +1,15 @@
+{
+  "unversionedId": "modules/ros2-humanoid/validation-report",
+  "id": "modules/ros2-humanoid/validation-report",
+  "title": "Validation Report: ROS 2 for Humanoid Robotics Module",
+  "description": "Accessibility Validation",
+  "source": "@site/docs/modules/ros2-humanoid/validation-report.md",
+  "sourceDirName": "modules/ros2-humanoid",
+  "slug": "/modules/ros2-humanoid/validation-report",
+  "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/validation-report",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/validation-report.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "modules/ros2-humanoid/glossary",
+  "id": "modules/ros2-humanoid/glossary",
+  "title": "Glossary of ROS 2 Terms",
+  "description": "A",
+  "source": "@site/docs/modules/ros2-humanoid/glossary.md",
+  "sourceDirName": "modules/ros2-humanoid",
+  "slug": "/modules/ros2-humanoid/glossary",
+  "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/glossary",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/glossary.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

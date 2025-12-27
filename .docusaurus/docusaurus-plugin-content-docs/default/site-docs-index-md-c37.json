@@ -1,0 +1,23 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "Physical AI & Humanoid Robotics Textbook",
+  "description": "Welcome to the comprehensive textbook on Physical AI and Humanoid Robotics. This resource covers the fundamental concepts, advanced techniques, and practical implementations in the field of embodied artificial intelligence and humanoid robotics.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/hackathon-1-ai-book/",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "index",
+    "title": "Physical AI & Humanoid Robotics Textbook"
+  },
+  "sidebar": "physicalAISidebar",
+  "next": {
+    "title": "Introduction to Physical AI",
+    "permalink": "/hackathon-1-ai-book/modules/physical-ai/intro"
+  }
+}

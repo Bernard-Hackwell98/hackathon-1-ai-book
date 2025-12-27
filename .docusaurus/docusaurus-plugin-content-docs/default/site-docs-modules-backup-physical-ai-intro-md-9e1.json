@@ -1,0 +1,19 @@
+{
+  "unversionedId": "modules_backup/physical-ai/intro",
+  "id": "modules_backup/physical-ai/intro",
+  "title": "Introduction to Physical AI",
+  "description": "Overview",
+  "source": "@site/docs/modules_backup/physical-ai/intro.md",
+  "sourceDirName": "modules_backup/physical-ai",
+  "slug": "/modules_backup/physical-ai/intro",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/physical-ai/intro",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/physical-ai/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Introduction to Physical AI"
+  }
+}

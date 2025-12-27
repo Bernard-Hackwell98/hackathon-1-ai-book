@@ -1,0 +1,19 @@
+{
+  "unversionedId": "modules_backup/physical-ai/chapter-2-vision/index",
+  "id": "modules_backup/physical-ai/chapter-2-vision/index",
+  "title": "Chapter 2 - ROS 2 Vision Primitives",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules_backup/physical-ai/chapter-2-vision/index.md",
+  "sourceDirName": "modules_backup/physical-ai/chapter-2-vision",
+  "slug": "/modules_backup/physical-ai/chapter-2-vision/",
+  "permalink": "/hackathon-1-ai-book/docs/modules_backup/physical-ai/chapter-2-vision/",
+  "draft": false,
+  "editUrl": "https://github.com/hammad97/hackathon-1-ai-book/tree/main/docs/modules_backup/physical-ai/chapter-2-vision/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "Chapter 2 - ROS 2 Vision Primitives"
+  }
+}

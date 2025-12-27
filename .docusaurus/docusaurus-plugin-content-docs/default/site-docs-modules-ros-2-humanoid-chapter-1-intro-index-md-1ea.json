@@ -1,0 +1,28 @@
+{
+  "unversionedId": "modules/ros2-humanoid/chapter-1-intro/index",
+  "id": "modules/ros2-humanoid/chapter-1-intro/index",
+  "title": "Chapter 1 - Introduction to ROS 2 for Humanoid Robotics",
+  "description": "Learning Objectives",
+  "source": "@site/docs/modules/ros2-humanoid/chapter-1-intro/index.md",
+  "sourceDirName": "modules/ros2-humanoid/chapter-1-intro",
+  "slug": "/modules/ros2-humanoid/chapter-1-intro/",
+  "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-1-intro/",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/modules/ros2-humanoid/chapter-1-intro/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Chapter 1 - Introduction to ROS 2 for Humanoid Robotics"
+  },
+  "sidebar": "ros2HumanoidSidebar",
+  "previous": {
+    "title": "Introduction to ROS 2 for Humanoid Robotics",
+    "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/intro"
+  },
+  "next": {
+    "title": "Chapter 2 - ROS 2 Communication Primitives",
+    "permalink": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-2-communication/"
+  }
+}
