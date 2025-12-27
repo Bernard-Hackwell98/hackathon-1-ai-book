@@ -1,0 +1,137 @@
+openapi: 3.0.0
+info:
+  title: ROS 2 Educational Module API
+  description: API for educational content related to ROS 2 for humanoid robotics
+  version: 1.0.0
+paths:
+  /chapters:
+    get:
+      summary: List all chapters in the ROS 2 module
+      responses:
+        '200':
+          description: A list of chapters
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Chapter'
+  /chapters/{id}:
+    get:
+      summary: Get details of a specific chapter
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Chapter identifier
+      responses:
+        '200':
+          description: Chapter details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Chapter'
+        '404':
+          description: Chapter not found
+  /chapters/{id}/examples:
+    get:
+      summary: Get code examples for a specific chapter
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Chapter identifier
+      responses:
+        '200':
+          description: A list of code examples
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/CodeExample'
+  /chapters/{id}/exercises:
+    get:
+      summary: Get exercises for a specific chapter
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Chapter identifier
+      responses:
+        '200':
+          description: A list of exercises
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Exercise'
+components:
+  schemas:
+    Chapter:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the chapter
+        title:
+          type: string
+          description: Title of the chapter
+        description:
+          type: string
+          description: Brief description of the chapter content
+        objectives:
+          type: array
+          items:
+            type: string
+          description: Learning objectives for the chapter
+        duration:
+          type: integer
+          description: Estimated time to complete the chapter in minutes
+    CodeExample:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the example
+        title:
+          type: string
+          description: Title of the example
+        description:
+          type: string
+          description: Brief description of what the example demonstrates
+        language:
+          type: string
+          description: Programming language of the example
+        code:
+          type: string
+          description: The actual code content
+        setupInstructions:
+          type: string
+          description: Instructions for setting up the example
+    Exercise:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the exercise
+        title:
+          type: string
+          description: Title of the exercise
+        description:
+          type: string
+          description: Detailed description of the exercise
+        difficulty:
+          type: string
+          enum: [beginner, intermediate, advanced]
+          description: Difficulty level of the exercise
+        expectedOutcome:
+          type: string
+          description: What the student should achieve by completing the exercise
