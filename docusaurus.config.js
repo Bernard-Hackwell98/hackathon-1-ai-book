@@ -74,7 +74,7 @@ const config = {
             label: 'Physical AI Module',
           },
           {
-            href: 'https://github.com/bernard-hackwell98/hackathon-1-ai-book',
+            href: 'https://bernard-hackwell98.github.io/hackathon-1-ai-book/',
             label: 'GitHub',
             position: 'right',
           },
@@ -101,7 +101,8 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/bernard-hackwell98/hackathon-1-ai-book',
+                href: 'https://bernard-hackwell98.github.io/hackathon-1-ai-book/',
+                
               },
             ],
           },
