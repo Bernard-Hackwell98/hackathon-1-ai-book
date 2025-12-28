@@ -1,0 +1,17 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Home",
+  "description": "This book covers advanced topics in AI and robotics, with a focus on:",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/hackathon-1-ai-book/intro",
+  "draft": false,
+  "editUrl": "https://github.com/bernard-hackwell98/hackathon-1-ai-book/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Home"
+  }
+}

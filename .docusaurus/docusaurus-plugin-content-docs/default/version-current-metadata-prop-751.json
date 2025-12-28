@@ -10,62 +10,14 @@
   "docsSidebars": {
     "ros2HumanoidSidebar": [
       {
-        "type": "link",
-        "label": "Physical AI & Humanoid Robotics Textbook",
-        "href": "/hackathon-1-ai-book/",
-        "docId": "index"
-      },
-      {
         "type": "category",
         "label": "ROS 2 for Humanoid Robotics",
         "items": [
           {
             "type": "link",
-            "label": "Introduction to ROS 2 for Humanoid Robotics",
+            "label": "Introduction",
             "href": "/hackathon-1-ai-book/modules/ros2-humanoid/intro",
             "docId": "modules/ros2-humanoid/intro"
-          },
-          {
-            "type": "category",
-            "label": "Chapter 1: Introduction to ROS 2 for Humanoid Robotics",
-            "items": [
-              {
-                "type": "link",
-                "label": "Chapter 1 - Introduction to ROS 2 for Humanoid Robotics",
-                "href": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-1-intro/",
-                "docId": "modules/ros2-humanoid/chapter-1-intro/index"
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
-          },
-          {
-            "type": "category",
-            "label": "Chapter 2: ROS 2 Communication Primitives",
-            "items": [
-              {
-                "type": "link",
-                "label": "Chapter 2 - ROS 2 Communication Primitives",
-                "href": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-2-communication/",
-                "docId": "modules/ros2-humanoid/chapter-2-communication/index"
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
-          },
-          {
-            "type": "category",
-            "label": "Chapter 3: Robot Modeling with URDF",
-            "items": [
-              {
-                "type": "link",
-                "label": "Chapter 3 - Robot Modeling with URDF",
-                "href": "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-3-urdf/",
-                "docId": "modules/ros2-humanoid/chapter-3-urdf/index"
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
           }
         ],
         "collapsed": true,
@@ -74,62 +26,14 @@
     ],
     "physicalAISidebar": [
       {
-        "type": "link",
-        "label": "Physical AI & Humanoid Robotics Textbook",
-        "href": "/hackathon-1-ai-book/",
-        "docId": "index"
-      },
-      {
         "type": "category",
         "label": "Physical AI and Computer Vision",
         "items": [
           {
             "type": "link",
-            "label": "Introduction to Physical AI",
+            "label": "Introduction",
             "href": "/hackathon-1-ai-book/modules/physical-ai/intro",
             "docId": "modules/physical-ai/intro"
-          },
-          {
-            "type": "category",
-            "label": "Chapter 1: Introduction to Physical AI",
-            "items": [
-              {
-                "type": "link",
-                "label": "Chapter 1 - Introduction to Physical AI",
-                "href": "/hackathon-1-ai-book/modules/physical-ai/chapter-1-intro/",
-                "docId": "modules/physical-ai/chapter-1-intro/index"
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
-          },
-          {
-            "type": "category",
-            "label": "Chapter 2: ROS 2 Vision Primitives",
-            "items": [
-              {
-                "type": "link",
-                "label": "Chapter 2 - ROS 2 Vision Primitives",
-                "href": "/hackathon-1-ai-book/modules/physical-ai/chapter-2-vision/",
-                "docId": "modules/physical-ai/chapter-2-vision/index"
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
-          },
-          {
-            "type": "category",
-            "label": "Chapter 3: Perception-Action Systems",
-            "items": [
-              {
-                "type": "link",
-                "label": "Chapter 3 - Perception-Action Systems",
-                "href": "/hackathon-1-ai-book/modules/physical-ai/chapter-3-perception-action/",
-                "docId": "modules/physical-ai/chapter-3-perception-action/index"
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
           }
         ],
         "collapsed": true,
@@ -138,94 +42,22 @@
     ]
   },
   "docs": {
-    "index": {
-      "id": "index",
-      "title": "Physical AI & Humanoid Robotics Textbook",
-      "description": "Welcome to the comprehensive textbook on Physical AI and Humanoid Robotics. This resource covers the fundamental concepts, advanced techniques, and practical implementations in the field of embodied artificial intelligence and humanoid robotics.",
-      "sidebar": "physicalAISidebar"
-    },
-    "modules/physical-ai/assessments": {
-      "id": "modules/physical-ai/assessments",
-      "title": "Assessment Methods for Physical AI Module",
-      "description": "Chapter 1: Introduction to Physical AI"
-    },
-    "modules/physical-ai/chapter-1-intro/index": {
-      "id": "modules/physical-ai/chapter-1-intro/index",
-      "title": "Chapter 1 - Introduction to Physical AI",
-      "description": "Learning Objectives",
-      "sidebar": "physicalAISidebar"
-    },
-    "modules/physical-ai/chapter-2-vision/index": {
-      "id": "modules/physical-ai/chapter-2-vision/index",
-      "title": "Chapter 2 - ROS 2 Vision Primitives",
-      "description": "Learning Objectives",
-      "sidebar": "physicalAISidebar"
-    },
-    "modules/physical-ai/chapter-3-perception-action/index": {
-      "id": "modules/physical-ai/chapter-3-perception-action/index",
-      "title": "Chapter 3 - Perception-Action Systems",
-      "description": "Learning Objectives",
-      "sidebar": "physicalAISidebar"
-    },
-    "modules/physical-ai/entities": {
-      "id": "modules/physical-ai/entities",
-      "title": "Base Models/Entities for Physical AI Module",
-      "description": "Physical AI"
-    },
-    "modules/physical-ai/glossary": {
-      "id": "modules/physical-ai/glossary",
-      "title": "Glossary of Physical AI Terms",
-      "description": "A"
+    "intro": {
+      "id": "intro",
+      "title": "Home",
+      "description": "This book covers advanced topics in AI and robotics, with a focus on:"
     },
     "modules/physical-ai/intro": {
       "id": "modules/physical-ai/intro",
-      "title": "Introduction to Physical AI",
-      "description": "Overview",
+      "title": "Physical AI and Computer Vision",
+      "description": "Welcome to the Physical AI and Computer Vision module. This section explores the intersection of artificial intelligence and physical systems, with a focus on computer vision applications.",
       "sidebar": "physicalAISidebar"
-    },
-    "modules/physical-ai/validation-report": {
-      "id": "modules/physical-ai/validation-report",
-      "title": "Validation Report: Physical AI Module",
-      "description": "Accessibility Validation"
-    },
-    "modules/ros2-humanoid/assessments": {
-      "id": "modules/ros2-humanoid/assessments",
-      "title": "Assessment Methods for ROS 2 for Humanoid Robotics Module",
-      "description": "Chapter 1: Introduction to ROS 2 for Humanoid Robotics"
-    },
-    "modules/ros2-humanoid/chapter-1-intro/index": {
-      "id": "modules/ros2-humanoid/chapter-1-intro/index",
-      "title": "Chapter 1 - Introduction to ROS 2 for Humanoid Robotics",
-      "description": "Learning Objectives",
-      "sidebar": "ros2HumanoidSidebar"
-    },
-    "modules/ros2-humanoid/chapter-2-communication/index": {
-      "id": "modules/ros2-humanoid/chapter-2-communication/index",
-      "title": "Chapter 2 - ROS 2 Communication Primitives",
-      "description": "Learning Objectives",
-      "sidebar": "ros2HumanoidSidebar"
-    },
-    "modules/ros2-humanoid/chapter-3-urdf/index": {
-      "id": "modules/ros2-humanoid/chapter-3-urdf/index",
-      "title": "Chapter 3 - Robot Modeling with URDF",
-      "description": "Learning Objectives",
-      "sidebar": "ros2HumanoidSidebar"
-    },
-    "modules/ros2-humanoid/glossary": {
-      "id": "modules/ros2-humanoid/glossary",
-      "title": "Glossary of ROS 2 Terms",
-      "description": "A"
     },
     "modules/ros2-humanoid/intro": {
       "id": "modules/ros2-humanoid/intro",
-      "title": "Introduction to ROS 2 for Humanoid Robotics",
-      "description": "Overview",
+      "title": "ROS 2 for Humanoid Robotics",
+      "description": "Welcome to the ROS 2 module for humanoid robotics. This section covers the fundamentals of using ROS 2 for developing humanoid robots.",
       "sidebar": "ros2HumanoidSidebar"
-    },
-    "modules/ros2-humanoid/validation-report": {
-      "id": "modules/ros2-humanoid/validation-report",
-      "title": "Validation Report: ROS 2 for Humanoid Robotics Module",
-      "description": "Accessibility Validation"
     }
   }
 }

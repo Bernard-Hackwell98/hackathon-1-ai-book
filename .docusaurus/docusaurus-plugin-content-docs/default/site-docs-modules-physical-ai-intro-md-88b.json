@@ -1,8 +1,8 @@
 {
   "unversionedId": "modules/physical-ai/intro",
   "id": "modules/physical-ai/intro",
-  "title": "Introduction to Physical AI",
-  "description": "Overview",
+  "title": "Physical AI and Computer Vision",
+  "description": "Welcome to the Physical AI and Computer Vision module. This section explores the intersection of artificial intelligence and physical systems, with a focus on computer vision applications.",
   "source": "@site/docs/modules/physical-ai/intro.md",
   "sourceDirName": "modules/physical-ai",
   "slug": "/modules/physical-ai/intro",
@@ -13,16 +13,8 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1,
-    "title": "Introduction to Physical AI"
+    "sidebar_label": "Introduction",
+    "sidebar_position": 1
   },
-  "sidebar": "physicalAISidebar",
-  "previous": {
-    "title": "Physical AI & Humanoid Robotics Textbook",
-    "permalink": "/hackathon-1-ai-book/"
-  },
-  "next": {
-    "title": "Chapter 1 - Introduction to Physical AI",
-    "permalink": "/hackathon-1-ai-book/modules/physical-ai/chapter-1-intro/"
-  }
+  "sidebar": "physicalAISidebar"
 }

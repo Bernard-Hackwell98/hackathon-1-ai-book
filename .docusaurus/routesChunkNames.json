@@ -1,116 +1,28 @@
 {
-  "/hackathon-1-ai-book/__docusaurus/debug/-d3e": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/hackathon-1-ai-book/-02c": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---hackathon-1-ai-book-docusaurus-debug-72-f-4bd"
-    }
-  },
-  "/hackathon-1-ai-book/__docusaurus/debug/config/-711": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---hackathon-1-ai-book-docusaurus-debug-72-f-4bd"
-    }
-  },
-  "/hackathon-1-ai-book/__docusaurus/debug/content/-446": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---hackathon-1-ai-book-docusaurus-debug-72-f-4bd"
+      "plugin": "f432c2e5"
     },
-    "allContent": "allContent---hackathon-1-ai-book-docusaurus-debug-content-246-15d"
+    "config": "5e9f5e1a"
   },
-  "/hackathon-1-ai-book/__docusaurus/debug/globalData/-b59": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/hackathon-1-ai-book/-66a": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---hackathon-1-ai-book-docusaurus-debug-72-f-4bd"
-    }
-  },
-  "/hackathon-1-ai-book/__docusaurus/debug/metadata/-7ac": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---hackathon-1-ai-book-docusaurus-debug-72-f-4bd"
-    }
-  },
-  "/hackathon-1-ai-book/__docusaurus/debug/registry/-357": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---hackathon-1-ai-book-docusaurus-debug-72-f-4bd"
-    }
-  },
-  "/hackathon-1-ai-book/__docusaurus/debug/routes/-b58": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---hackathon-1-ai-book-docusaurus-debug-72-f-4bd"
-    }
-  },
-  "/hackathon-1-ai-book/-b04": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
-    "__context": {
-      "plugin": "plugin---hackathon-1-ai-book-bba-50b"
+      "plugin": "bba3b20f"
     },
-    "versionMetadata": "versionMetadata---hackathon-1-ai-book-935-720"
+    "versionMetadata": "935f2afb"
   },
-  "/hackathon-1-ai-book/-cb0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-c-37-427"
+  "/hackathon-1-ai-book/intro-1ec": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
-  "/hackathon-1-ai-book/modules/physical-ai/assessments/-dc1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-physical-ai-assessments-bc-3-252"
+  "/hackathon-1-ai-book/modules/physical-ai/intro-0fb": {
+    "__comp": "17896441",
+    "content": "88b28ec5"
   },
-  "/hackathon-1-ai-book/modules/physical-ai/chapter-1-intro/-751": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-physical-ai-chapter-1-intro-6-f-5-4fa"
-  },
-  "/hackathon-1-ai-book/modules/physical-ai/chapter-2-vision/-151": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-physical-ai-chapter-2-vision-39-f-62b"
-  },
-  "/hackathon-1-ai-book/modules/physical-ai/chapter-3-perception-action/-3e8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-physical-ai-chapter-3-perception-action-3-d-6-e81"
-  },
-  "/hackathon-1-ai-book/modules/physical-ai/entities/-1af": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-physical-ai-entities-72-e-217"
-  },
-  "/hackathon-1-ai-book/modules/physical-ai/glossary/-db7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-physical-ai-glossary-5-f-7-e13"
-  },
-  "/hackathon-1-ai-book/modules/physical-ai/intro/-474": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-physical-ai-intro-88-b-3bc"
-  },
-  "/hackathon-1-ai-book/modules/physical-ai/validation-report/-add": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-physical-ai-validation-report-740-eed"
-  },
-  "/hackathon-1-ai-book/modules/ros2-humanoid/assessments/-6b9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-ros-2-humanoid-assessments-a-2-e-0e7"
-  },
-  "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-1-intro/-50a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-ros-2-humanoid-chapter-1-intro-1-ea-b90"
-  },
-  "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-2-communication/-4ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-ros-2-humanoid-chapter-2-communication-3-d-3-e83"
-  },
-  "/hackathon-1-ai-book/modules/ros2-humanoid/chapter-3-urdf/-de4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-ros-2-humanoid-chapter-3-urdf-b-97-ce8"
-  },
-  "/hackathon-1-ai-book/modules/ros2-humanoid/glossary/-f2c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-ros-2-humanoid-glossary-560-868"
-  },
-  "/hackathon-1-ai-book/modules/ros2-humanoid/intro/-11e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-ros-2-humanoid-intro-7-f-9-49a"
-  },
-  "/hackathon-1-ai-book/modules/ros2-humanoid/validation-report/-4ff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---hackathon-1-ai-book-modules-ros-2-humanoid-validation-report-9-df-686"
+  "/hackathon-1-ai-book/modules/ros2-humanoid/intro-519": {
+    "__comp": "17896441",
+    "content": "7f955e7e"
   }
 }
